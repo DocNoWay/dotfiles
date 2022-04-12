@@ -10,7 +10,7 @@
     ~/.vimrc:
     ~/.vim:
       create: true
-      path: vim/
+      path: vim
     ~/.bashrc:
     ~/.bash_profile:
     ~/.dircolors:
@@ -19,7 +19,9 @@
       create: true
       glob: true
       path: bin/*
-    ~/.w3m: w3m/
+    ~/.w3m: 
+      create: true
+      path: w3m/
     ~/Bilder/backgrounds/:
       create: true
       glob: true
