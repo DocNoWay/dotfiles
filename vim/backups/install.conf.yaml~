@@ -10,6 +10,7 @@
     ~/.vimrc:
     ~/.vim: vim/
     ~/.bashrc:
+    ~/.bash_profile:
     ~/.dircolors:
     ~/.xinitrc:
     ~/.bin/:
