@@ -32,7 +32,7 @@
     ~/.config/neomutt/:
       create: true
       glob: true
-      patch: config/neomutt/*
+      path: config/neomutt/*
     ~/.config/qutebrowser/:
       glob: true
       create: true
