@@ -33,8 +33,6 @@
       create: true
       glob: true
       patch: config/neomutt/*
-    ~/.config/neomutt/accounts:
-      create: true
     ~/.config/qutebrowser/:
       glob: true
       create: true
