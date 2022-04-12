@@ -1,0 +1,10 @@
+# vim: filetype=muttrc
+
+set sidebar_visible = yes
+set sidebar_folder_indent = yes
+set sidebar_short_path = yes
+set sidebar_width = 22
+set sidebar_format = "%B%?F? [%F]?%* %?N?%N/?%S"
+set mail_check_stats
+#set sidebar_new_mail_only
+set imap_list_subscribed

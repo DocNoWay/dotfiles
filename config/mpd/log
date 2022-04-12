@@ -1,0 +1,250 @@
+Sep 17 15:58 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 16:01 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 16:01 : exception: No such directory
+Sep 17 16:01 : exception: Failed to open '/home/andreas/.config/mpd/playlists/soundstorm.m3u': No such file or directory
+Sep 17 16:01 : exception: No such playlist
+Sep 17 16:04 : exception: Failed to open '/home/andreas/.config/mpd/playlists/soundstorm.m3u.m3u': No such file or directory
+Sep 17 16:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 16:04 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 16:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 16:35 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 16:35 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 17 16:35 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 16:35 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 16:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 16:36 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 16:48 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 17:18 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 18:03 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 17 18:03 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 18:04 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 18:23 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 18:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 18:49 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 17 18:49 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 19:07 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 19:08 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 17 22:24 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 17 23:55 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 00:59 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 18 01:00 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 18 01:00 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 18 01:00 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 01:01 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 01:42 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 18 13:49 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 18 13:49 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 18 13:49 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 13:50 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 15:39 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 18 15:39 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 18 15:39 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 18 15:39 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 15:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 18:31 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 18 20:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 02:39 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 14:35 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 14:39 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 14:59 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 15:00 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 15:03 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 15:25 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 16:34 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 16:35 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 19 16:35 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 16:35 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 16:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 17:23 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 17:23 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 19 17:23 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 17:24 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 17:29 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 17:38 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 17:38 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 19 17:38 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 17:39 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 17:40 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 17:46 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 17:46 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 19 17:46 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 17:47 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 17:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 18:04 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 21:00 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 19 21:00 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 21:03 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 21:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 19 21:57 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 22:09 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:2,0": Device or resource busy
+Sep 19 22:09 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "hw:2,0": Device or resource busy
+Sep 19 22:09 : player: problems opening audio device while playing "http://stream.soundstorm-radio.com:8000"
+Sep 19 22:10 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 19 22:10 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 20 02:16 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 20 09:31 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 20 09:31 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 20 09:32 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 20 10:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 20 10:45 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 20 12:58 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 20 12:58 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 20 13:35 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 20 19:58 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 20 20:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 20 20:45 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 20 23:24 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 20 23:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 21 00:10 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 21 00:10 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Sep 21 00:10 : player: played "http://stream.soundstorm-radio.com:8000"
+Sep 21 23:19 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 21 23:20 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 21 23:32 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 03 20:22 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 03 20:22 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 03 20:23 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 03 20:47 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 03 21:22 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 03 21:22 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 03 21:22 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 03 21:23 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 03 21:24 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 03 21:35 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 03 21:35 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 03 21:35 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 03 21:35 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 03 21:36 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 03 22:24 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 03 23:23 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 03 23:27 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 04 00:03 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 04 00:27 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 04 19:28 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 04 19:31 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 04 19:53 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 04 22:26 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 05 00:19 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 05 11:48 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 05 11:48 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 05 14:45 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 05 21:22 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 05 21:22 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 05 21:23 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 05 23:04 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 05 23:04 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 05 23:04 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 05 23:04 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 05 23:04 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 00:03 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 06 10:53 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 06 10:53 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 06 10:54 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 11:42 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 11:44 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 11:50 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 06 11:50 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 06 11:50 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 06 11:51 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 16:54 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 18:58 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 06 18:58 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 06 18:58 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 06 18:58 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 21:52 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:10 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 06 22:10 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 06 22:12 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 06 22:13 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 00:17 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 12:26 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 07 12:26 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 12:27 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 12:29 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 13:29 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 07 13:29 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 13:35 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 14:06 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 14:47 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 07 14:47 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 14:50 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 14:50 : exception: Failed to open mixer for 'My ALSA Device': no such mixer control: PCM
+Oct 07 15:49 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 15:50 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 07 15:50 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 15:57 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 15:57 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 15:59 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 07 15:59 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 16:07 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 16:07 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 07 16:07 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 16:36 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 16:38 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 16:38 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 16:38 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Oct 07 16:38 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 16:39 : player: played "http://stream.soundstorm-radio.com:8000"
+Oct 07 17:08 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 07 22:03 : exception: Failed to open '/home/andreas/.config/mpd/state': No such file or directory
+Apr 07 22:03 : mixer: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Apr 07 22:04 : exception: Failed to open /home/andreas/.config/mpd/playlists: No such file or directory
+Apr 07 22:04 : exception: No such directory
+Apr 07 22:04 : exception: Failed to open '/home/andreas/.config/mpd/playlists/soundstorm.m3u.m3u': No such file or directory
+ALSA lib pcm_dmix.c:1032:(snd_pcm_dmix_open) unable to open slave
+Apr 07 22:04 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": No such file or directory
+Apr 07 22:04 : exception: Failed to open "My ALSA Device" (alsa); Failed to open ALSA device "default": No such file or directory
+Apr 07 22:04 : player: problems opening audio device while playing "http://stream.soundstorm-radio.com:8000"
+Apr 07 22:06 : player: played "http://stream.soundstorm-radio.com:8000"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Apr 07 23:06 : output: Failed to play on "My Pulse Output" (pulse): suspended
+Apr 07 23:06 : exception: Failed to open audio output
+Apr 07 23:10 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 07 23:15 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 07 23:23 : output: Failed to play on "My Pulse Output" (pulse): suspended
+Apr 07 23:23 : exception: Failed to open audio output
+Apr 08 00:28 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 08 02:07 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 08 17:17 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 08 20:31 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 08 20:32 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 08 20:33 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Apr 08 20:33 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 08 22:05 : exception: CURL failed: Recv failure: Connection reset by peer
+Apr 08 22:05 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 09 12:10 : exception: CURL failed: Recv failure: Connection reset by peer
+Apr 09 12:10 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 09 13:52 : exception: CURL failed: Recv failure: Connection reset by peer
+Apr 09 13:52 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 09 14:26 : exception: CURL failed: Recv failure: Connection reset by peer
+Apr 09 14:26 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 09 16:49 : exception: CURL failed: Recv failure: Connection reset by peer
+Apr 09 16:49 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 09 17:11 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 09 18:01 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 09 18:01 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 09 21:24 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 10 00:55 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 10 00:55 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 10 15:15 : exception: Failed to decode http://stream.soundstorm-radio.com:8000; CURL failed: Could not resolve host: stream.soundstorm-radio.com
+Apr 10 15:15 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 10 21:44 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 11 22:15 : exception: CURL failed: Recv failure: Connection reset by peer
+Apr 11 22:15 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 11 22:24 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 11 22:55 : output: Failed to play on "My Pulse Output" (pulse): suspended
+Apr 11 22:55 : exception: Failed to open audio output
+Apr 12 00:37 : player: played "http://stream.soundstorm-radio.com:8000"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Apr 12 12:39 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 12 15:52 : player: played "http://stream.soundstorm-radio.com:8000"
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+WARNING: Unhandled message: interface=org.freedesktop.DBus, path=/org/freedesktop/DBus, member=ActivatableServicesChanged
+Apr 12 17:48 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 12 18:23 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 12 19:24 : player: played "http://stream.soundstorm-radio.com:8000"

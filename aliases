@@ -1,0 +1,7 @@
+# All my aliases
+alias ls='ls --color'
+alias D='cd ~/Downloads'
+alias d='cd ~/Documents'
+alias ll='ls -ahl'
+alias la='ls -a'
+alias sc='vim ~/.config/sway/config'

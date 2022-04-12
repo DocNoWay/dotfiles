@@ -1,0 +1,7 @@
+mode=drun
+dynamic_lines=true
+allow-images=true
+allow-markup=trua
+width=40%
+height=30%
+color=dracula.conf
