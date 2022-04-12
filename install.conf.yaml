@@ -10,8 +10,7 @@
     ~/.vimrc:
     ~/.vim:
       create: true
-      glob: true
-      path: vim/*
+      path: vim/
     ~/.bashrc:
     ~/.bash_profile:
     ~/.dircolors:
