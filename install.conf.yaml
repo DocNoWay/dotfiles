@@ -3,26 +3,23 @@
 - link:
     ~/.aliases:
     ~/.vimrc:
-    relink: true
-    ~/.vim: vim
-    ~/.bashrc: bashrc
-    ~/.dircolors: dircolors
-    ~/.xinitrc: xinitrc
+    ~/.vim: vim/
+    ~/.bashrc:
+    ~/.dircolors:
+    ~/.xinitrc:
     ~/.bin/:
-      glob: true
+      create: true
       path: bin/*
     ~/Bilder/backgrounds/:
-      glob: true
-      path: Bilder/backgrounds/*
+      create: true
+      path: Bilder/backgrounds
     ~/.signature: signature
     ~/.config/kitty/:
-      glob: true
       create: true
-      path: config/kitty/*
+      path: config/kitty
     ~/.config/mpd/:
-      glob: true
       create: true
-      path: config/mpd/*
+      path: config/mpd
     ~/.config/neomutt/colors:
     ~/.config/neomutt/mailcap:
     ~/.config/neomutt/mappings:
@@ -50,7 +47,6 @@
       path:  config/waybar/*
 
 - create:
-    - ~/bin
     - ~/Bilder/backgrounds
     - ~/Downloads
     - ~/Documents
