@@ -1,6 +1,7 @@
 - defaults:
     link:
       relink: true
+      force: true
 
 - clean: ['~']
 
@@ -13,24 +14,39 @@
     ~/.xinitrc:
     ~/.bin/:
       create: true
-      path: bin/*
+      path: bin/
     ~/Bilder/backgrounds/:
       create: true
-      path: Bilder/backgrounds
+      path: Bilder/backgrounds/
     ~/.signature: signature
     ~/.config/kitty/:
       create: true
       path: config/kitty
     ~/.config/mpd/:
       create: true
-      path: config/mpd
+      glob: true
+      path: config/mpd/
     ~/.config/neomutt/colors:
+      create: true
+      patch: config/neomutt/
     ~/.config/neomutt/mailcap:
+      create: true
+      patch: config/neomutt/
     ~/.config/neomutt/mappings:
+      create: true
+      patch: config/neomutt/
     ~/.config/neomutt/neomuttrc:
+      create: true
+      patch: config/neomutt/
     ~/.config/neomutt/settings:
+      create: true
+      patch: config/neomutt/
     ~/.config/neomutt/sidebar:
+      create: true
+      patch: config/neomutt/
     ~/.config/neomutt/signature:
+      create: true
+      patch: config/neomutt/
     ~/.config/neomutt/accounts:
       create: true
     ~/.config/qutebrowser/:
@@ -39,8 +55,7 @@
       path: config/qutebrowser/*
     ~/.config/sway/config:
       create: true
-    ~/.config/systemd/user/default.target.wants:
-      create: true
+      path: config/sway/config
     ~/.config/waybar/:
       glob: true
       create: true
@@ -51,7 +66,6 @@
       path:  config/waybar/*
 
 - create:
-    - ~/Bilder/backgrounds
     - ~/Downloads
     - ~/Documents
     - ~/Scripts
