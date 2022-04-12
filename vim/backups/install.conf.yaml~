@@ -29,27 +29,10 @@
       create: true
       glob: true
       path: config/mpd/*
-    ~/.config/neomutt/colors:
+    ~/.config/neomutt/:
       create: true
-      patch: config/neomutt/colors
-    ~/.config/neomutt/mailcap:
-      create: true
-      patch: config/neomutt/mailcap
-    ~/.config/neomutt/mappings:
-      create: true
-      patch: config/neomutt/mappings
-    ~/.config/neomutt/neomuttrc:
-      create: true
-      patch: config/neomutt/neomuttrc
-    ~/.config/neomutt/settings:
-      create: true
-      patch: config/neomutt/settings
-    ~/.config/neomutt/sidebar:
-      create: true
-      patch: config/neomutt/sidebar
-    ~/.config/neomutt/signature:
-      create: true
-      patch: config/neomutt/signature
+      glob: true
+      patch: config/neomutt/*
     ~/.config/neomutt/accounts:
       create: true
     ~/.config/qutebrowser/:
