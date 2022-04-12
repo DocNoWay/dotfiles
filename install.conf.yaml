@@ -14,39 +14,42 @@
     ~/.xinitrc:
     ~/.bin/:
       create: true
-      path: bin/
+      glob: true
+      path: bin/*
     ~/Bilder/backgrounds/:
       create: true
-      path: Bilder/backgrounds/
+      glob: true
+      path: Bilder/backgrounds/*
     ~/.signature: signature
     ~/.config/kitty/:
       create: true
-      path: config/kitty
+      glob: true
+      path: config/kitty/*
     ~/.config/mpd/:
       create: true
       glob: true
-      path: config/mpd/
+      path: config/mpd/*
     ~/.config/neomutt/colors:
       create: true
-      patch: config/neomutt/
+      patch: config/neomutt/colors
     ~/.config/neomutt/mailcap:
       create: true
-      patch: config/neomutt/
+      patch: config/neomutt/mailcap
     ~/.config/neomutt/mappings:
       create: true
-      patch: config/neomutt/
+      patch: config/neomutt/mappings
     ~/.config/neomutt/neomuttrc:
       create: true
-      patch: config/neomutt/
+      patch: config/neomutt/neomuttrc
     ~/.config/neomutt/settings:
       create: true
-      patch: config/neomutt/
+      patch: config/neomutt/settings
     ~/.config/neomutt/sidebar:
       create: true
-      patch: config/neomutt/
+      patch: config/neomutt/sidebar
     ~/.config/neomutt/signature:
       create: true
-      patch: config/neomutt/
+      patch: config/neomutt/signature
     ~/.config/neomutt/accounts:
       create: true
     ~/.config/qutebrowser/:
