@@ -8,7 +8,9 @@
 - link:
     ~/.aliases:
     ~/.vimrc:
-    ~/.vim: vim/
+    ~/.vim:
+      glob: true
+      path: vim/*
     ~/.bashrc:
     ~/.bash_profile:
     ~/.dircolors:

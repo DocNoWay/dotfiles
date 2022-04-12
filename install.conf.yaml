@@ -9,6 +9,7 @@
     ~/.aliases:
     ~/.vimrc:
     ~/.vim:
+      create: true
       glob: true
       path: vim/*
     ~/.bashrc:
