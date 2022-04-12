@@ -21,7 +21,7 @@
       path: bin/*
     ~/.w3m: 
       create: true
-      path: w3m/
+      path: w3m
     ~/Bilder/backgrounds/:
       create: true
       glob: true
