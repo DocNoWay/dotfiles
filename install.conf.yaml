@@ -53,7 +53,7 @@
     ~/.config/wofi/:
       glob: true
       create: true
-      path:  config/waybar/*
+      path:  config/wofi/*
 
 - create:
     - ~/Downloads
