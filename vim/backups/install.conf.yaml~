@@ -1,6 +1,6 @@
 - defaults:
     link:
-      relink: false
+      relink: true
       force: false
 
 - clean: ['~']
@@ -19,9 +19,6 @@
       create: true
       glob: true
       path: bin/*
-    ~/.w3m: 
-      create: true
-      path: w3m
     ~/Bilder/backgrounds/:
       create: true
       glob: true

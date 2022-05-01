@@ -255,3 +255,37 @@ Apr 15 14:44 : player: played "http://stream.soundstorm-radio.com:8000"
 Apr 15 14:45 : player: played "http://stream.soundstorm-radio.com:8000"
 Apr 15 15:19 : exception: CURL failed: Recv failure: Connection reset by peer
 Apr 15 15:19 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 24 22:43 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 25 01:10 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 25 11:26 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 25 23:15 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 25 23:15 : exception: Failed to open audio output
+Apr 25 23:24 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 25 23:32 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 26 00:05 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 26 00:05 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 26 00:55 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 26 00:55 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 26 09:12 : exception: CURL failed: Recv failure: Connection reset by peer
+Apr 26 09:12 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 26 17:22 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 27 00:40 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 27 00:40 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 27 16:50 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 27 16:50 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 28 16:14 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 28 16:14 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 29 08:58 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 29 15:31 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 29 16:23 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 29 17:12 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 29 21:49 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 29 21:53 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 29 23:42 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 29 23:42 : player: played "http://stream.soundstorm-radio.com:8000"
+Apr 30 21:33 : output: Failed to play on "My Pulse Output" (pulse): disconnected
+Apr 30 21:33 : exception: Failed to open audio output
+Apr 30 21:33 : player: played "http://stream.soundstorm-radio.com:8000"
+May 01 14:58 : player: played "http://stream.soundstorm-radio.com:8000"
+May 01 21:19 : exception: CURL failed: Recv failure: Connection reset by peer
+May 01 21:19 : player: played "http://stream.soundstorm-radio.com:8000"

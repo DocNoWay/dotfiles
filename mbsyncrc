@@ -1,0 +1,75 @@
+#!/bin/bash
+
+# Mailbox Account
+IMAPAccount mailbox.org
+Host	imap.mailbox.org
+SSLType	IMAPS
+Port	993
+User	andreas.finck@mailbox.org
+SystemCertificates	yes
+PassCmd	"pass mailbox.org"
+
+MaildirStore mailbox
+Inbox ~/.mail/mailbox/Inbox
+SubFolders Verbatim
+Path ~/.mail/mailbox/
+
+IMAPStore mailbox-imap
+Account mailbox.org
+
+Channel mailbox
+Far	:mailbox-imap:
+Near	:mailbox:
+SyncState *
+Patterns * 
+Create  Both
+Expunge	Both
+
+# Softclox Account
+IMAPAccount softclox.com
+Host	imap.1und1.de
+SSLType	IMAPS
+Port	993
+User	andreas.finck@softclox.com
+SystemCertificates	yes
+PassCmd	"pass softclox.com"
+
+MaildirStore softclox
+Inbox ~/.mail/softclox/Inbox
+SubFolders Verbatim
+Path ~/.mail/softclox/
+
+IMAPStore softclox-imap
+Account softclox.com
+
+Channel softclox
+Far	:softclox-imap:
+Near	:softclox:
+SyncState *
+Patterns *
+Create Both
+Expunge Both
+
+# IT-Clear Account
+IMAPAccount it-clear
+Host	imap.web.de
+SSLType	IMAPS
+Port	993
+User	it-clear@web.de
+SystemCertificates	yes
+PassCmd	"pass web.de"
+
+MaildirStore it-clear
+Inbox ~/.mail/it-clear/Inbox
+SubFolders Verbatim
+Path ~/.mail/it-clear/
+
+IMAPStore it-clear-imap
+Account it-clear
+
+Channel it-clear
+Far	:it-clear-imap:
+Near	:it-clear:
+SyncState *
+Patterns *
+Create Both

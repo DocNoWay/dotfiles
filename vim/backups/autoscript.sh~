@@ -12,7 +12,7 @@ DATUM=$(date +%d.%m.%Y)
 FIL=$1
 FT=".sh"
 FILE=$FIL$FT
-SHEBANG="#!/bin/sh "
+SHEBANG="#!/bin/bash "
 AUTHOR="# Author"
 TEXTDATE="# Date"
 SUBJECT="# Subject"
@@ -37,7 +37,7 @@ echo >> $DIR$FILE
 # making it executable
 chmod +x $DIR$FILE
 # open it in vi
-if [ $EDITOR == 'vim' ]; then
+if [ '$EDITOR' = 'vim' ]; then
 	$EDITOR +7 $DIR$FILE
 else
 	$EDITOR $DIR$FILE

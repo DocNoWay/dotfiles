@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Author	: Andreas Finck
+# Date		: 24.04.2022
+# Subject	: Installation of Doom Emacs
+
+pacman -S ripgrep fd git emacs
+
+git clone --depth 1 https://github.com/hlissner/doom-emacs ~/.emacs.d
+~/.emacs.d/bin/doom install
+
+

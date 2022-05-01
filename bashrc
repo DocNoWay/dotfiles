@@ -21,6 +21,7 @@
 PATH=/usr/local/bin:$PATH
 PATH=~/.bin:$PATH
 PATH=~/Scripts:$PATH
+PATH=~/.emacs.d/bin/:$PATH
 
 ###########
 # History #
@@ -121,6 +122,8 @@ man "$@"
 if [ -e ~/.aliases ]; then
 	source ~/.aliases
 fi
+
+export EDITOR=vim
 
 #neofetch
 

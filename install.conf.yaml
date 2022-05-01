@@ -1,7 +1,7 @@
 - defaults:
     link:
-      relink: false
-      force: false
+      relink: true
+      force: true
 
 - clean: ['~']
 
@@ -12,8 +12,10 @@
       create: true
       path: vim
     ~/.bashrc:
+    ~/.msmtprc:
     ~/.bash_profile:
     ~/.dircolors:
+    ~/.emacs.d/init.el:
     ~/.xinitrc:
     ~/.bin/:
       create: true
@@ -24,6 +26,9 @@
       glob: true
       path: Bilder/backgrounds/*
     ~/.signature: signature
+    ~/.config/emacs/:
+      create: true
+      path: config/emacs/init.el
     ~/.config/kitty/:
       create: true
       glob: true
@@ -55,7 +60,7 @@
 - create:
     - ~/Downloads
     - ~/Documents
-    - ~/Scripts
+    - ~/Projects/Code/Scripts
 
 
 - shell: []

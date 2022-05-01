@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 
 # Author	: Andreas Finck
 # Date		: 15.04.2022

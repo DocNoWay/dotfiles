@@ -1,0 +1,26 @@
+[Desktop Entry]
+
+# The type as listed above
+Type=Application
+# The version of the desktop entry specification to which this file complies
+Version=1.0
+# The name of the application
+Name=TeamSpeak 
+
+# A comment which can/will be used as a tooltip
+Comment=Teamspeak Client Program
+
+# The path to the folder in which the executable is run
+Path=/home/andreas/Downloads/TeamSpeak3-Client-linux_amd64/
+
+# The executable of the application, possibly with arguments.
+Exec=ts3client_runscript.sh
+
+# The name of the icon that will be used to display this entry
+Icon=teamspeak
+
+# Describes whether this application needs to be run in a terminal or not
+Terminal=false
+
+# Describes the categories in which this entry should be shown
+Categories=

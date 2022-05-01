@@ -37,8 +37,8 @@ echo >> $DIR$FILE
 # making it executable
 chmod +x $DIR$FILE
 # open it in vi
-if [ $EDITOR == 'vim' ]; then
+if [ $EDITOR = 'vim' ]; then
 	$EDITOR +7 $DIR$FILE
 else
-	$EDITOR $DIR$FILE
+	/usr/bin/vi $DIR$FILE
 fi

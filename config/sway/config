@@ -33,7 +33,7 @@ set $screenclip slurp | grim -g - ~/Images/screenshots/scrn-$(date +"%Y-%m-%d-%H
 #output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 #output * bg ~/backgrounds/Digital_Art_Red_City.jpg fill 
 
-exec ~/bin/sway_bg.sh
+exec ~/.bin/sway_bg.sh
 #
 # Example configuration:
 #
@@ -88,6 +88,7 @@ for_window [class="qutebrowser"] move container to workspace 2
 for_window [class="Pcmanfm"] move container to workspace 3
 for_window [app_id="claws-mail"] move container to workspace 8
 for_window [class="code-oss"] move container to workspace 4
+for_window [class="TeamSpeak 3"] move container to workspace 7
 
 ### Key bindings
 #

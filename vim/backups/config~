@@ -33,7 +33,7 @@ set $screenclip slurp | grim -g - ~/Images/screenshots/scrn-$(date +"%Y-%m-%d-%H
 #output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 #output * bg ~/backgrounds/Digital_Art_Red_City.jpg fill 
 
-exec ~/bin/sway_bg.sh
+exec ~/.bin/sway_bg.sh
 #
 # Example configuration:
 #
@@ -88,6 +88,7 @@ for_window [class="qutebrowser"] move container to workspace 2
 for_window [class="Pcmanfm"] move container to workspace 3
 for_window [app_id="claws-mail"] move container to workspace 8
 for_window [class="code-oss"] move container to workspace 4
+for_window [class="TeamSpeak 3"] move container to workspace 7
 
 ### Key bindings
 #
@@ -116,7 +117,7 @@ for_window [class="code-oss"] move container to workspace 4
     bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
 
     # gaps
-    gaps inner 8
+    gaps inner 12
     gaps outer 2
 
 ### Key bindings
@@ -273,6 +274,8 @@ default_border pixel 0
 default_floating_border pixel 0
 hide_edge_borders smart
 
+# required for timeshift and other gtk app which need root priviledges to run
+exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 
 include /etc/sway/config.d/*
-#exec /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+
