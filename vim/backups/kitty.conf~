@@ -2061,6 +2061,6 @@ map opt+cmd+,    debug_config
 
 #: }}}
 #include dracula.conf
-include gruvbox.conf
+include 
 
 

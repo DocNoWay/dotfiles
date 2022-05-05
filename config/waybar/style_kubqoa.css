@@ -1,7 +1,8 @@
 * {
     border: none;
     border-radius: 0;
-    font-family: "SF Pro Display", "Font Awesome 5 Free";
+    /* font-family: "SF Pro Display", "Font Awesome 5 Free";  */
+    font-family: FontAwesome, Roboto, Helvetica, Arial, sans-serif;
     font-size: 13px;
     color: #B2ABAB;
 }
@@ -55,7 +56,7 @@ window#waybar.hidden {
 #battery,
 #clock,
 #mpd,
-#temp,
+#temperature,
 #custom-media,
 #custom-power {
 	margin: 10px 10px 0 0;

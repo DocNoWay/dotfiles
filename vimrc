@@ -60,13 +60,14 @@ set dir=$HOME/.vim/swaps
 set confirm
 " Plugins
 call plug#begin()
-Plug'dracula/vim',{'as':'dracula'}
+"Plug'dracula/vim',{'as':'dracula'}
 Plug'vim-airline/vim-airline'
 Plug'vim-airline/vim-airline-themes'
 Plug'preservim/nerdtree'
 call plug#end()
 
-colorscheme dracula
+"colorscheme dracula
+colorscheme elflord
 
 " Nerdtree shortcuts
 nnoremap <leader>n :NERDTreeFocus<CR>

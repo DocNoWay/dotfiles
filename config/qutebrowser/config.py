@@ -25,7 +25,7 @@ c.auto_save.session = True
 # Which cookies to accept. With QtWebEngine, this setting also controls
 # other features with tracking capabilities similar to those of cookies;
 # including IndexedDB, DOM storage, filesystem API, service workers, and
-# AppCache. Note that with QtWebKit, only `all` and `never` are
+# AppCache. Note that with QtWebKit, only `all` and `never` are/
 # supported as per-domain values. Setting `no-3rdparty` or `no-
 # unknown-3rdparty` per-domain on QtWebKit will have the same effect as
 # `all`. If this setting is used with URL patterns, the pattern gets
@@ -149,7 +149,7 @@ config.set('content.javascript.enabled', True, 'qute://*/*')
 
 # Allow websites to show notifications.
 # Type: BoolAsk
-# Valid values:
+# Valid values:css define variablescss define variables
 #   - true
 #   - false
 #   - ask
@@ -163,3 +163,4 @@ config.set('content.notifications.enabled', False, 'https://www.reddit.com')
 # Same as `{column}`, but starting from index 0.
 # Type: ShellCommand
 c.editor.command = ['featherpad', '-s', '{file}']
+config.set('colors.webpage.darkmode.enabled', True)
